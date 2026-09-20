@@ -1,1 +1,9 @@
-https://github.com/dtc245200741-beep/bai-tap-mysql
+CREATE DATABASE demo;
+USE demo;
+
+CREATE TABLE Student(
+ id INT,
+ name VARCHAR(200),
+ age INT,
+ country VARCHAR(50)
+);
