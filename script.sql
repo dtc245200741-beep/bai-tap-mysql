@@ -1,2 +1,2 @@
-CREATE DATABASE test_db;
+CREATE DATABASE my_database1;
 DROP DATABASE test_db;
