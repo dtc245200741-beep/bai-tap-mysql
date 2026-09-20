@@ -1,2 +1,1 @@
-CREATE DATABASE my_database1;
-CREATE DATABASE my_database2;
+https://github.com/dtc245200741-beep/bai-tap-mysql
